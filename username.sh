@@ -1,1 +1,1 @@
-echo "Aslan Amantaev"
+Aslan Amantaev
