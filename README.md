@@ -1,1 +1,2 @@
-'этот скрипт выводит мое имя Aslan Amantyaev 
+'этот скрипт выводит мое имя Aslan Amantyaev
+![logo](./jusan-logo.png) 
